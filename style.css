@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+}
+.container {
+  position: absolute;
+  top: 7%;
+  bottom: 7%;
+  left: 22.5%;
+  right: 22.5%;
+  margin: auto;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+  padding-bottom: 14px;
+}
+
+.start-btn {
+  padding-top: 34px;
+  padding-bottom: 34px;
+  padding-left: 49px;
+  padding-right: 49px;
+  font-size: large;
+}
+
+.your-number {
+  display: inline-flex;
+  font-weight: bolder;
+}
+
+.rules {
+  font-weight: bolder;
+  font-family: "Times New Roman", Times, serif;
+}
